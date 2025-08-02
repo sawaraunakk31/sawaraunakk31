@@ -1,3 +1,13 @@
+# 💫 Hi, I'm Raunak Sawa 👨‍💻
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Tech+Explorer)
+
+🚀 I'm a developer who loves building intelligent systems with seamless UIs and solving real-world problems with code.  
+🎓 Currently exploring GenAI, System Design, and advanced full-stack engineering.
+
+[📄 Download My Resume](https://drive.google.com/file/d/1eQDB3rdVLl2mvrmKCnft3HbeCkodjqHE/view?usp=sharing) <!-- replace with your actual link -->
+
+Email Me 👉 ✉️ **sawaraunak31@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raunak.sawa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raunak-sawa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sawaraunak31@gmail.com) 
@@ -9,6 +19,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=sawaraunakk31&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sawaraunakk31&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sawaraunakk31&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -16,8 +32,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sawaraunakk31&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
