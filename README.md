@@ -5,7 +5,7 @@
 🚀 I'm a developer who loves building intelligent systems with seamless UIs and solving real-world problems with code.  
 🎓 Currently exploring GenAI, System Design, and advanced full-stack engineering.
 
-[📄 Download My Resume](https://drive.google.com/file/d/1zrxJlWYIcqmvhQopCCwUjBxTOafrUhA5/view?usp=drive_link) 
+[📄 Download My Resume](https://drive.google.com/file/d/14ztUqyALnTvkzdPolLKHAGCiCurn4MPH/view?usp=sharing) 
 
 Email Me 👉 ✉️ **sawaraunak31@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
